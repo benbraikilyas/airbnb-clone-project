@@ -9,7 +9,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Gain experience with frontend development and data persistence.  
 - Strengthen JavaScript skills (DOM manipulation, API integration).  
 - Build a responsive, user-friendly interface. 
-🛠 Tech Stack
+# 🛠 Tech Stack
 Frontend: HTML, CSS, JavaScript (React or similar framework)
 Version Control: Git & GitHub
 Design Tools: Figma (for UI/UX design)
@@ -164,3 +164,4 @@ Copyright
 1. Clone the repository:  
    ```bash
    https://github.com/benbraikilyas/airbnb-clone-project.git
+
